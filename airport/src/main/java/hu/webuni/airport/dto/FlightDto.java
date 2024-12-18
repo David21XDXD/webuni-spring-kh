@@ -23,5 +23,4 @@ public class FlightDto {
 	private AirportDto takeoff;
 	
 	private AirportDto landing;
-
 }
